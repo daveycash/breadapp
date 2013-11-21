@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/breadapp.iml" filepath="$PROJECT_DIR$/breadapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/breadapp-grailsPlugins.iml" filepath="$PROJECT_DIR$/breadapp-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
